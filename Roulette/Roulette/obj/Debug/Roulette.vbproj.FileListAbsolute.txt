@@ -1,1 +1,12 @@
 C:\Users\Romain\Documents\Visual Studio 2015\Projects\Roulette\Roulette\bin\Debug\Roulette.exe.config
+D:\TpRoulette\allahuakbar\Roulette\Roulette\bin\Debug\Roulette.exe.config
+D:\TpRoulette\allahuakbar\Roulette\Roulette\bin\Debug\Roulette.exe
+D:\TpRoulette\allahuakbar\Roulette\Roulette\bin\Debug\Roulette.pdb
+D:\TpRoulette\allahuakbar\Roulette\Roulette\bin\Debug\Roulette.xml
+D:\TpRoulette\allahuakbar\Roulette\Roulette\obj\Debug\Roulette.vbprojResolveAssemblyReference.cache
+D:\TpRoulette\allahuakbar\Roulette\Roulette\obj\Debug\WindowsApplication1.Form1.resources
+D:\TpRoulette\allahuakbar\Roulette\Roulette\obj\Debug\WindowsApplication1.Resources.resources
+D:\TpRoulette\allahuakbar\Roulette\Roulette\obj\Debug\Roulette.vbproj.GenerateResource.Cache
+D:\TpRoulette\allahuakbar\Roulette\Roulette\obj\Debug\Roulette.exe
+D:\TpRoulette\allahuakbar\Roulette\Roulette\obj\Debug\Roulette.xml
+D:\TpRoulette\allahuakbar\Roulette\Roulette\obj\Debug\Roulette.pdb
